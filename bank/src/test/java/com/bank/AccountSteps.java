@@ -1,5 +1,11 @@
 package com.bank;
 
+import static org.junit.Assert.*;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+import io.cucumber.java.en.Then;
+
 public class AccountSteps {
     private Account account;
 
